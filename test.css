@@ -1,0 +1,43 @@
+body{
+  width:auto;
+  height:auto;
+  background-size:cover;
+  
+
+}
+.logo{
+  background-color:#e8344e;
+
+}
+
+.logo>h1{
+  color:#ffffff;
+}
+
+.text{
+  padding:11px;
+}
+.text>p{
+  color:black;
+}
+button{
+  background-color:#ffffff;
+  border-radius: 3px;
+  border-color: #aca8a8;
+  
+}
+
+a{
+  text-decoration: none;
+  color:#ff4D58;
+  font-size:14px;
+}
+
+
+hr{
+  color:#ff4D58;
+}
+
+h4{
+  color:blue;
+}
